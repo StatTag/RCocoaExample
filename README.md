@@ -1,2 +1,2 @@
 # RCocoaExample
-Sample application using RCocoa
+Sample application demonstrating the use of the [RCocoa](https://github.com/StatTag/RCocoa) framework.
